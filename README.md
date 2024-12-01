@@ -21,4 +21,5 @@ This Python project uses a GPT-powered chatbot to collect feedback in a friendly
 ### Prerequisites
 - Python 3.x
 - Preferred experience: having taken a course/class
+- Basic experience to openAI Api documentation
 
