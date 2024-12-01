@@ -1,0 +1,393 @@
+2024-11-30 21:26:10,820 - INFO - Survey started.
+2024-11-30 21:26:10,821 - INFO - Asking Question ID 1: What were your goals for this course?
+Options:
+A. Learn something completely new
+B. Supplement previous knowledge
+C. Refresh previous knowledge
+D. Other
+2024-11-30 21:26:24,063 - INFO - Assistant Response: Thank you for your response. Now, did you find the course content to be relevant and useful? 
+Options:
+A. Yes
+B. No
+C. Somewhat
+D. Not sure
+2024-11-30 21:26:52,152 - INFO - Recorded Answer for Question ID 1: c
+2024-11-30 21:26:52,152 - INFO - Acknowledgment sent for Question ID 1.
+2024-11-30 21:26:52,152 - INFO - Asking Question ID 2: Out of 5 stars, what do you rate the course? (Please rate from 1 to 5)
+2024-11-30 21:26:57,267 - INFO - Recorded Answer for Question ID 2: 3
+2024-11-30 21:26:57,268 - INFO - Acknowledgment sent for Question ID 2.
+2024-11-30 21:26:57,268 - INFO - Asking Question ID 3: In general, how familiar were you with the content before the course?
+Options:
+A. No knowledge
+B. I've heard of it, but I don't know much more
+C. I'm familiar with it
+D. I could explain the content to others
+E. I am an expert on the topic
+F. Other
+2024-11-30 21:27:08,654 - INFO - Assistant Response: Thank you! That sounds like option B - you've heard of it, but didn't know much more. Is that correct?
+2024-11-30 21:27:15,311 - INFO - Assistant Response: Thank you for your input! Now, how well did the course meet your goals?
+Options:
+A. Not at all
+B. Somewhat
+C. Very well
+D. Extremely well
+E. Other
+2024-11-30 21:27:30,977 - INFO - Recorded Answer for Question ID 3: b
+2024-11-30 21:27:30,977 - INFO - Acknowledgment sent for Question ID 3.
+2024-11-30 21:27:30,977 - INFO - Asking Question ID 4: Have you worked with the content before? (Yes or No)
+2024-11-30 21:27:34,754 - INFO - Recorded Answer for Question ID 4: n
+2024-11-30 21:27:34,754 - INFO - Acknowledgment sent for Question ID 4.
+2024-11-30 21:27:34,755 - INFO - Asking Question ID 6: What could be improved about the course?
+2024-11-30 21:27:43,013 - INFO - Recorded Answer for Question ID 6: It could have less text.
+2024-11-30 21:27:43,014 - INFO - Acknowledgment sent for Question ID 6.
+2024-11-30 21:27:43,014 - INFO - Asking Question ID 7: What did you like about the course?
+2024-11-30 21:27:50,012 - INFO - Recorded Answer for Question ID 7: It was relatively short.
+2024-11-30 21:27:50,013 - INFO - Acknowledgment sent for Question ID 7.
+2024-11-30 21:27:50,013 - INFO - Asking Question ID 8: On a scale of 1 to 4 from Untrue to True, the content was accurate, up-to-date, applicable to the real world. (Please rate from 1 to 4)
+2024-11-30 21:28:05,565 - INFO - Assistant Response: I apologize for any confusion. Let's break it down. Based on a scale of 1 to 4, with 1 being Untrue and 4 being True, was the content accurate?
+2024-11-30 21:28:11,357 - INFO - Recorded Answer for Question ID 8: 4
+2024-11-30 21:28:11,357 - INFO - Acknowledgment sent for Question ID 8.
+2024-11-30 21:28:11,357 - INFO - Asking Question ID 9: On a scale of 1 to 4 from Untrue to True, the learning goals were clearly defined. (Please rate from 1 to 4)
+2024-11-30 21:28:18,426 - INFO - Recorded Answer for Question ID 9: 3
+2024-11-30 21:28:18,427 - INFO - Acknowledgment sent for Question ID 9.
+2024-11-30 21:28:18,427 - INFO - Asking Question ID 10: The course content was relevant for me. (Yes or No)
+2024-11-30 21:32:17,153 - INFO - Recorded Answer for Question ID 10: y
+2024-11-30 21:32:17,154 - INFO - Acknowledgment sent for Question ID 10.
+2024-11-30 21:32:17,154 - INFO - Asking Question ID 12: The duration of the content was
+Options:
+A. Much too short
+B. A bit short
+C. Just right
+D. A bit long
+E. Much too long
+2024-11-30 21:32:21,043 - INFO - Recorded Answer for Question ID 12: c
+2024-11-30 21:32:21,043 - INFO - Acknowledgment sent for Question ID 12.
+2024-11-30 21:32:21,044 - INFO - Asking Question ID 13: The course was of high quality (1-4, untrue to true). (Please rate from 1 to 4)
+2024-11-30 21:32:24,359 - INFO - Recorded Answer for Question ID 13: 4
+2024-11-30 21:32:24,360 - INFO - Acknowledgment sent for Question ID 13.
+2024-11-30 21:32:24,360 - INFO - Survey completed successfully.
+2024-11-30 21:54:14,717 - INFO - Survey started.
+2024-11-30 21:54:14,717 - INFO - Asking Question ID 1: What were your goals for this course?
+Options:
+A. Learn something completely new
+B. Supplement previous knowledge
+C. Refresh previous knowledge
+D. Other
+2024-11-30 21:54:19,019 - INFO - Recorded Answer for Question ID 1: a
+2024-11-30 21:54:19,020 - INFO - Acknowledgment sent for Question ID 1.
+2024-11-30 21:54:19,020 - INFO - Asking Question ID 2: Out of 5 stars, what do you rate the course? (Please rate from 1 to 5)
+2024-11-30 21:54:20,954 - INFO - Recorded Answer for Question ID 2: 4
+2024-11-30 21:54:20,954 - INFO - Acknowledgment sent for Question ID 2.
+2024-11-30 21:54:20,954 - INFO - Asking Question ID 3: In general, how familiar were you with the content before the course?
+Options:
+A. No knowledge
+B. I've heard of it, but I don't know much more
+C. I'm familiar with it
+D. I could explain the content to others
+E. I am an expert on the topic
+F. Other
+2024-11-30 21:54:24,848 - INFO - Recorded Answer for Question ID 3: c
+2024-11-30 21:54:24,848 - INFO - Acknowledgment sent for Question ID 3.
+2024-11-30 21:54:24,848 - INFO - Asking Question ID 4: What did you like best about the course?
+2024-11-30 21:54:29,673 - INFO - Recorded Answer for Question ID 4: it was short
+2024-11-30 21:54:29,673 - INFO - Acknowledgment sent for Question ID 4.
+2024-11-30 21:54:29,673 - INFO - Asking Question ID 5: Can you provide an example of how you applied what you learned in this course?
+2024-11-30 21:54:34,026 - INFO - Recorded Answer for Question ID 5: I haven't
+2024-11-30 21:54:34,026 - INFO - Acknowledgment sent for Question ID 5.
+2024-11-30 21:54:34,026 - INFO - Asking Question ID 6: How would you rate the instructor's ability to explain the material?
+Options:
+A. Poor
+B. Fair
+C. Good
+D. Excellent
+E. Outstanding
+2024-11-30 21:54:42,396 - INFO - Assistant Response: I understand, so it seems the instructor's performance was satisfactory but not exceptional. Let's go with option B. Fair. Thank you for your feedback!
+2024-11-30 21:54:47,385 - INFO - Recorded Answer for Question ID 6: Good
+2024-11-30 21:54:47,386 - INFO - Acknowledgment sent for Question ID 6.
+2024-11-30 21:54:47,386 - INFO - Asking Question ID 7: On a scale of 1 to 10, how challenging did you find the course content? (1 being not challenging at all and 10 being extremely challenging) (Please rate from 1 to 10)
+2024-11-30 21:54:59,786 - INFO - Assistant Response: Can you please provide a number rating from 1 to 10 to indicate how challenging you found the course content?
+2024-11-30 21:55:03,487 - INFO - Recorded Answer for Question ID 7: 3
+2024-11-30 21:55:03,488 - INFO - Acknowledgment sent for Question ID 7.
+2024-11-30 21:55:03,488 - INFO - Asking Question ID 8: How well were you able to apply what you learned?
+Options:
+A. Not at all
+B. A little bit
+C. Moderately well
+D. Very well
+E. Exceptionally well
+F. Other
+2024-11-30 21:55:07,259 - INFO - Recorded Answer for Question ID 8: d
+2024-11-30 21:55:07,260 - INFO - Acknowledgment sent for Question ID 8.
+2024-11-30 21:55:07,260 - INFO - Asking Question ID 9: Have you worked with the content before? (Yes or No)
+2024-11-30 21:55:12,561 - INFO - Recorded Answer for Question ID 9: y
+2024-11-30 21:55:12,562 - INFO - Acknowledgment sent for Question ID 9.
+2024-11-30 21:55:12,562 - INFO - Asking Question ID 10: What could be improved about the course?
+2024-11-30 21:55:20,138 - INFO - Recorded Answer for Question ID 10: Too much text.
+2024-11-30 21:55:20,138 - INFO - Acknowledgment sent for Question ID 10.
+2024-11-30 21:55:20,138 - INFO - Asking Question ID 11: The content was accurate, up-to-date, applicable to the real world. (1-4, Untrue to True) (Please rate from 1 to 4)
+2024-11-30 21:55:27,435 - INFO - Assistant Response: I'm sorry for the confusion, could you please provide a single rating from 1 to 4? With 1 being untrue and 4 being very true.
+2024-11-30 21:55:38,909 - INFO - Assistant Response: I apologize for the confusion. Let's clarify. Please rate the following statement: "The content was accurate, up-to-date, applicable to the real world." Please rate it from 1 to 4, with 1 being "Untrue" and 4 being "True".
+2024-11-30 21:55:44,411 - INFO - Recorded Answer for Question ID 11: 4
+2024-11-30 21:55:44,412 - INFO - Acknowledgment sent for Question ID 11.
+2024-11-30 21:55:44,412 - INFO - Asking Question ID 12: The learning goals were clearly defined. (1-4, Untrue to True) (Please rate from 1 to 4)
+2024-11-30 21:55:47,870 - INFO - Recorded Answer for Question ID 12: 1
+2024-11-30 21:55:47,871 - INFO - Acknowledgment sent for Question ID 12.
+2024-11-30 21:55:47,871 - INFO - Asking Question ID 13: The course content was relevant for me. (Yes or No)
+2024-11-30 21:55:50,704 - INFO - Recorded Answer for Question ID 13: yes
+2024-11-30 21:55:50,704 - INFO - Acknowledgment sent for Question ID 13.
+2024-11-30 21:55:50,705 - INFO - Asking Question ID 14: The duration of the content was
+Options:
+A. Much too short
+B. A bit short
+C. Just right
+D. A bit long
+E. Much too long
+2024-11-30 21:55:54,773 - INFO - Recorded Answer for Question ID 14: c
+2024-11-30 21:55:54,774 - INFO - Acknowledgment sent for Question ID 14.
+2024-11-30 21:55:54,774 - INFO - Asking Question ID 15: The course was of high quality (1-4, Untrue to True). (Please rate from 1 to 4)
+2024-11-30 21:55:58,854 - INFO - Recorded Answer for Question ID 15: 1
+2024-11-30 21:55:58,855 - INFO - Acknowledgment sent for Question ID 15.
+2024-11-30 21:55:58,855 - INFO - Survey completed successfully.
+2024-11-30 21:59:57,380 - INFO - Survey started.
+2024-11-30 21:59:57,381 - INFO - Asking Question ID 1: What were your goals for this course?
+Options:
+A. Learn something completely new
+B. Supplement previous knowledge
+C. Refresh previous knowledge
+D. Other
+2024-11-30 21:59:59,807 - INFO - Recorded Answer for Question ID 1: a
+2024-11-30 21:59:59,808 - INFO - Acknowledgment sent for Question ID 1.
+2024-11-30 21:59:59,808 - INFO - Asking Question ID 2: Out of 5 stars, what do you rate the course? (Please rate from 1 to 5)
+2024-11-30 22:00:01,262 - INFO - Recorded Answer for Question ID 2: 3
+2024-11-30 22:00:01,262 - INFO - Acknowledgment sent for Question ID 2.
+2024-11-30 22:00:01,262 - INFO - Asking Question ID 3: In general, how familiar were you with the content before the course?
+Options:
+A. No knowledge
+B. I've heard of it, but I don't know much more
+C. I'm familiar with it
+D. I could explain the content to others
+E. I am an expert on the topic
+F. Other
+2024-11-30 22:00:02,923 - INFO - Recorded Answer for Question ID 3: b
+2024-11-30 22:00:02,923 - INFO - Acknowledgment sent for Question ID 3.
+2024-11-30 22:00:02,923 - INFO - Asking Question ID 4: What did you like best about the course?
+2024-11-30 22:00:06,721 - INFO - Recorded Answer for Question ID 4: nothing
+2024-11-30 22:00:06,721 - INFO - Acknowledgment sent for Question ID 4.
+2024-11-30 22:00:06,721 - INFO - Asking Question ID 5: Can you provide an example of how you applied what you learned in this course?
+2024-11-30 22:00:09,976 - INFO - Recorded Answer for Question ID 5: I didn't
+2024-11-30 22:00:09,977 - INFO - Acknowledgment sent for Question ID 5.
+2024-11-30 22:00:09,977 - INFO - Asking Question ID 6: How would you rate the instructor's ability to explain the material?
+Options:
+A. Poor
+B. Fair
+C. Good
+D. Excellent
+E. Outstanding
+2024-11-30 22:00:11,498 - INFO - Recorded Answer for Question ID 6: c
+2024-11-30 22:00:11,498 - INFO - Acknowledgment sent for Question ID 6.
+2024-11-30 22:00:11,498 - INFO - Asking Question ID 7: On a scale of 1 to 10, how challenging did you find the course content? (1 being not challenging at all and 10 being extremely challenging) (Please rate from 1 to 10)
+2024-11-30 22:00:13,277 - INFO - Recorded Answer for Question ID 7: 3
+2024-11-30 22:00:13,277 - INFO - Acknowledgment sent for Question ID 7.
+2024-11-30 22:00:13,277 - INFO - Asking Question ID 8: How well were you able to apply what you learned?
+Options:
+A. Not at all
+B. A little bit
+C. Moderately well
+D. Very well
+E. Exceptionally well
+F. Other
+2024-11-30 22:00:15,814 - INFO - Recorded Answer for Question ID 8: f
+2024-11-30 22:00:15,815 - INFO - Acknowledgment sent for Question ID 8.
+2024-11-30 22:00:15,815 - INFO - Asking Question ID 9: Have you worked with the content before? (Yes or No)
+2024-11-30 22:00:18,940 - INFO - Recorded Answer for Question ID 9: Y
+2024-11-30 22:00:18,941 - INFO - Acknowledgment sent for Question ID 9.
+2024-11-30 22:00:18,941 - INFO - Asking Question ID 10: What could be improved about the course?
+2024-11-30 22:00:21,244 - INFO - Recorded Answer for Question ID 10: nothing
+2024-11-30 22:00:21,245 - INFO - Acknowledgment sent for Question ID 10.
+2024-11-30 22:00:21,245 - INFO - Asking Question ID 11: The content was accurate, up-to-date, applicable to the real world. (1-4, Untrue to True) (Please rate from 1 to 4)
+2024-11-30 22:00:27,679 - INFO - Assistant Response: I apologize for any confusion. When you rate from 1 to 4, consider 1 as the content being untrue and not applicable to the real-world, and 4 as the content being true and very applicable to the real-world. Could you please provide your rating?
+2024-11-30 22:00:33,193 - INFO - Recorded Answer for Question ID 11: 3
+2024-11-30 22:00:33,193 - INFO - Acknowledgment sent for Question ID 11.
+2024-11-30 22:00:33,193 - INFO - Asking Question ID 12: The learning goals were clearly defined. (1-4, Untrue to True) (Please rate from 1 to 4)
+2024-11-30 22:00:36,130 - INFO - Recorded Answer for Question ID 12: 4
+2024-11-30 22:00:36,131 - INFO - Acknowledgment sent for Question ID 12.
+2024-11-30 22:00:36,131 - INFO - Asking Question ID 13: The course content was relevant for me. (Yes or No)
+2024-11-30 22:00:39,312 - INFO - Assistant Response: I'm sorry for any confusion. Could you please respond with either "Yes" or "No" to the question: The course content was relevant for me?
+2024-11-30 22:00:40,952 - INFO - Recorded Answer for Question ID 13: yes
+2024-11-30 22:00:40,952 - INFO - Acknowledgment sent for Question ID 13.
+2024-11-30 22:00:40,952 - INFO - Asking Question ID 14: The duration of the content was
+Options:
+A. Much too short
+B. A bit short
+C. Just right
+D. A bit long
+E. Much too long
+2024-11-30 22:00:42,917 - INFO - Recorded Answer for Question ID 14: c
+2024-11-30 22:00:42,917 - INFO - Acknowledgment sent for Question ID 14.
+2024-11-30 22:00:42,917 - INFO - Asking Question ID 15: The course was of high quality (1-4, Untrue to True). (Please rate from 1 to 4)
+2024-11-30 22:00:45,887 - INFO - Recorded Answer for Question ID 15: 3
+2024-11-30 22:00:45,887 - INFO - Acknowledgment sent for Question ID 15.
+2024-11-30 22:00:45,887 - INFO - Survey completed successfully.
+2024-12-01 18:13:46,098 - INFO - Survey started.
+2024-12-01 18:13:46,099 - INFO - Asking Question ID 1: What were your goals for this course?
+Options:
+A. Learn something completely new
+B. Supplement previous knowledge
+C. Refresh previous knowledge
+D. Other
+2024-12-01 18:13:48,161 - INFO - Recorded Answer for Question ID 1: a
+2024-12-01 18:13:48,161 - INFO - Acknowledgment sent for Question ID 1.
+2024-12-01 18:13:48,161 - INFO - Asking Question ID 2: Out of 5 stars, what do you rate the course? (Please rate from 1 to 5)
+2024-12-01 18:13:50,094 - INFO - Recorded Answer for Question ID 2: 3
+2024-12-01 18:13:50,094 - INFO - Acknowledgment sent for Question ID 2.
+2024-12-01 18:13:50,094 - INFO - Asking Question ID 3: In general, how familiar were you with the content before the course?
+Options:
+A. No knowledge
+B. I've heard of it, but I don't know much more
+C. I'm familiar with it
+D. I could explain the content to others
+E. I am an expert on the topic
+F. Other
+2024-12-01 18:13:51,611 - INFO - Recorded Answer for Question ID 3: b
+2024-12-01 18:13:51,611 - INFO - Acknowledgment sent for Question ID 3.
+2024-12-01 18:13:51,611 - INFO - Asking Question ID 4: What did you like best about the course?
+2024-12-01 18:13:56,383 - INFO - Recorded Answer for Question ID 4: Short
+2024-12-01 18:13:56,383 - INFO - Acknowledgment sent for Question ID 4.
+2024-12-01 18:13:56,383 - INFO - Asking Question ID 5: Can you provide an example of how you applied what you learned in this course?
+2024-12-01 18:14:00,371 - INFO - Recorded Answer for Question ID 5: I haven't.
+2024-12-01 18:14:00,371 - INFO - Acknowledgment sent for Question ID 5.
+2024-12-01 18:14:00,371 - INFO - Asking Question ID 6: How would you rate the instructor's ability to explain the material?
+Options:
+A. Poor
+B. Fair
+C. Good
+D. Excellent
+E. Outstanding
+2024-12-01 18:14:04,672 - INFO - Assistant Response: I'm sorry for any confusion, but could you please respond using the options provided? 
+A. Poor
+B. Fair
+C. Good
+D. Excellent
+E. Outstanding
+2024-12-01 18:14:07,546 - INFO - Recorded Answer for Question ID 6: c
+2024-12-01 18:14:07,546 - INFO - Acknowledgment sent for Question ID 6.
+2024-12-01 18:14:07,546 - INFO - Asking Question ID 7: On a scale of 1 to 10, how challenging did you find the course content? (1 being not challenging at all and 10 being extremely challenging) (Please rate from 1 to 10)
+2024-12-01 18:14:09,553 - INFO - Recorded Answer for Question ID 7: 3
+2024-12-01 18:14:09,554 - INFO - Acknowledgment sent for Question ID 7.
+2024-12-01 18:14:09,554 - INFO - Asking Question ID 8: How well were you able to apply what you learned?
+Options:
+A. Not at all
+B. A little bit
+C. Moderately well
+D. Very well
+E. Exceptionally well
+F. Other
+2024-12-01 18:14:13,337 - INFO - Recorded Answer for Question ID 8: b
+2024-12-01 18:14:13,338 - INFO - Acknowledgment sent for Question ID 8.
+2024-12-01 18:14:13,338 - INFO - Asking Question ID 9: Have you worked with the content before? (Yes or No)
+2024-12-01 18:14:17,556 - INFO - Recorded Answer for Question ID 9: Y
+2024-12-01 18:14:17,556 - INFO - Acknowledgment sent for Question ID 9.
+2024-12-01 18:14:17,556 - INFO - Asking Question ID 10: What could be improved about the course?
+2024-12-01 18:14:21,775 - INFO - Recorded Answer for Question ID 10: nill
+2024-12-01 18:14:21,775 - INFO - Acknowledgment sent for Question ID 10.
+2024-12-01 18:14:21,775 - INFO - Asking Question ID 11: The content was accurate, up-to-date, applicable to the real world. (1-4, Untrue to True) (Please rate from 1 to 4)
+2024-12-01 18:14:25,594 - INFO - Assistant Response: I'm sorry for the confusion, but could you please provide a rating from 1 to 4, with 1 being Untrue and 4 being True?
+2024-12-01 18:14:27,443 - INFO - Recorded Answer for Question ID 11: 3
+2024-12-01 18:14:27,443 - INFO - Acknowledgment sent for Question ID 11.
+2024-12-01 18:14:27,443 - INFO - Asking Question ID 12: The learning goals were clearly defined. (1-4, Untrue to True) (Please rate from 1 to 4)
+2024-12-01 18:14:32,502 - INFO - Recorded Answer for Question ID 12: 3
+2024-12-01 18:14:32,503 - INFO - Acknowledgment sent for Question ID 12.
+2024-12-01 18:14:32,503 - INFO - Asking Question ID 13: The course content was relevant for me. (Yes or No)
+2024-12-01 18:14:35,093 - INFO - Recorded Answer for Question ID 13: yes
+2024-12-01 18:14:35,094 - INFO - Acknowledgment sent for Question ID 13.
+2024-12-01 18:14:35,094 - INFO - Asking Question ID 14: The duration of the content was
+Options:
+A. Much too short
+B. A bit short
+C. Just right
+D. A bit long
+E. Much too long
+2024-12-01 18:14:36,799 - INFO - Recorded Answer for Question ID 14: d
+2024-12-01 18:14:36,799 - INFO - Acknowledgment sent for Question ID 14.
+2024-12-01 18:14:36,800 - INFO - Asking Question ID 15: The course was of high quality (1-4, Untrue to True). (Please rate from 1 to 4)
+2024-12-01 18:14:41,075 - INFO - Recorded Answer for Question ID 15: 4
+2024-12-01 18:14:41,075 - INFO - Acknowledgment sent for Question ID 15.
+2024-12-01 18:14:41,075 - INFO - Survey completed successfully.
+2024-12-01 18:24:08,565 - INFO - Survey started.
+2024-12-01 18:24:08,565 - INFO - Asking Question ID 1: What were your goals for this course?
+Options:
+A. Learn something completely new
+B. Supplement previous knowledge
+C. Refresh previous knowledge
+D. Other
+2024-12-01 18:24:13,429 - INFO - Recorded Answer for Question ID 1: a
+2024-12-01 18:24:13,429 - INFO - Acknowledgment sent for Question ID 1.
+2024-12-01 18:24:13,429 - INFO - Asking Question ID 2: Out of 5 stars, what do you rate the course? (Please rate from 1 to 5)
+2024-12-01 18:24:14,735 - INFO - Recorded Answer for Question ID 2: 3
+2024-12-01 18:24:14,735 - INFO - Acknowledgment sent for Question ID 2.
+2024-12-01 18:24:14,735 - INFO - Asking Question ID 3: In general, how familiar were you with the content before the course?
+Options:
+A. No knowledge
+B. I've heard of it, but I don't know much more
+C. I'm familiar with it
+D. I could explain the content to others
+E. I am an expert on the topic
+F. Other
+2024-12-01 18:24:16,130 - INFO - Recorded Answer for Question ID 3: c
+2024-12-01 18:24:16,130 - INFO - Acknowledgment sent for Question ID 3.
+2024-12-01 18:24:16,130 - INFO - Asking Question ID 4: What did you like best about the course?
+2024-12-01 18:24:20,303 - INFO - Recorded Answer for Question ID 4: not
+2024-12-01 18:24:20,303 - INFO - Acknowledgment sent for Question ID 4.
+2024-12-01 18:24:20,303 - INFO - Asking Question ID 5: Can you provide an example of how you applied what you learned in this course?
+2024-12-01 18:24:23,264 - INFO - Recorded Answer for Question ID 5: yeah
+2024-12-01 18:24:23,264 - INFO - Acknowledgment sent for Question ID 5.
+2024-12-01 18:24:23,264 - INFO - Asking Question ID 6: How would you rate the instructor's ability to explain the material?
+Options:
+A. Poor
+B. Fair
+C. Good
+D. Excellent
+E. Outstanding
+2024-12-01 18:24:24,826 - INFO - Recorded Answer for Question ID 6: b
+2024-12-01 18:24:24,827 - INFO - Acknowledgment sent for Question ID 6.
+2024-12-01 18:24:24,827 - INFO - Asking Question ID 7: On a scale of 1 to 10, how challenging did you find the course content? (1 being not challenging at all and 10 being extremely challenging) (Please rate from 1 to 10)
+2024-12-01 18:24:27,236 - INFO - Recorded Answer for Question ID 7: 8
+2024-12-01 18:24:27,236 - INFO - Acknowledgment sent for Question ID 7.
+2024-12-01 18:24:27,236 - INFO - Asking Question ID 8: How well were you able to apply what you learned?
+Options:
+A. Not at all
+B. A little bit
+C. Moderately well
+D. Very well
+E. Exceptionally well
+F. Other
+2024-12-01 18:24:28,854 - INFO - Recorded Answer for Question ID 8: e
+2024-12-01 18:24:28,854 - INFO - Acknowledgment sent for Question ID 8.
+2024-12-01 18:24:28,854 - INFO - Asking Question ID 9: Have you worked with the content before? (Yes or No)
+2024-12-01 18:24:30,787 - INFO - Recorded Answer for Question ID 9: Yes
+2024-12-01 18:24:30,788 - INFO - Acknowledgment sent for Question ID 9.
+2024-12-01 18:24:30,788 - INFO - Asking Question ID 10: What could be improved about the course?
+2024-12-01 18:24:34,978 - INFO - Recorded Answer for Question ID 10: A lot!
+2024-12-01 18:24:34,979 - INFO - Acknowledgment sent for Question ID 10.
+2024-12-01 18:24:34,979 - INFO - Asking Question ID 11: The content was accurate, up-to-date, applicable to the real world. (1-4, Untrue to True) (Please rate from 1 to 4)
+2024-12-01 18:24:38,493 - INFO - Recorded Answer for Question ID 11: 3
+2024-12-01 18:24:38,494 - INFO - Acknowledgment sent for Question ID 11.
+2024-12-01 18:24:38,494 - INFO - Asking Question ID 12: The learning goals were clearly defined. (1-4, Untrue to True) (Please rate from 1 to 4)
+2024-12-01 18:24:42,189 - INFO - Recorded Answer for Question ID 12: 3
+2024-12-01 18:24:42,189 - INFO - Acknowledgment sent for Question ID 12.
+2024-12-01 18:24:42,189 - INFO - Asking Question ID 13: The course content was relevant for me. (Yes or No)
+2024-12-01 18:24:44,744 - INFO - Recorded Answer for Question ID 13: No
+2024-12-01 18:24:44,744 - INFO - Acknowledgment sent for Question ID 13.
+2024-12-01 18:24:44,744 - INFO - Asking Question ID 14: The duration of the content was
+Options:
+A. Much too short
+B. A bit short
+C. Just right
+D. A bit long
+E. Much too long
+2024-12-01 18:24:47,997 - INFO - Recorded Answer for Question ID 14: E
+2024-12-01 18:24:47,997 - INFO - Acknowledgment sent for Question ID 14.
+2024-12-01 18:24:47,997 - INFO - Asking Question ID 15: The course was of high quality (1-4, Untrue to True). (Please rate from 1 to 4)
+2024-12-01 18:24:50,300 - INFO - Recorded Answer for Question ID 15: 1
+2024-12-01 18:24:50,301 - INFO - Acknowledgment sent for Question ID 15.
+2024-12-01 18:24:50,301 - INFO - Survey completed successfully.
